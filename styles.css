@@ -85,7 +85,7 @@ button:active {
     color: black;
 }
 
-@media screen {
+@media screen and (max-width:1070px) {
 
     img{
         margin-top: 0;
